@@ -9,7 +9,7 @@ const categoriesObj = [
     },
     {
         "__typename": "Category",
-        // "name": "blouses"
+        "name": "blouses"
     },
     {
         "__typename": "Category",
