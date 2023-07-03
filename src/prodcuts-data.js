@@ -17,7 +17,7 @@ const categoriesObj = [
     },
     {
         "__typename": "Category",
-        // "name": "shoes"
+        "name": "shoes"
     }
 ];
 
