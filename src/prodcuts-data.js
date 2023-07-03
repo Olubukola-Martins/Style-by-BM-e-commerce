@@ -1,23 +1,23 @@
 const categoriesObj = [
     {
         "__typename": "Category",
-        // "name": "all"
+        "name": "all"
     },
     {
         "__typename": "Category",
-        "name": "dresses"
+        // "name": "dresses"
     },
     {
         "__typename": "Category",
-        "name": "blouses"
+        // "name": "blouses"
     },
     {
         "__typename": "Category",
-        "name": "jeans"
+        // "name": "jeans"
     },
     {
         "__typename": "Category",
-        "name": "shoes"
+        // "name": "shoes"
     }
 ];
 
