@@ -5,7 +5,7 @@ const categoriesObj = [
     },
     {
         "__typename": "Category",
-        // "name": "dresses"
+        "name": "dresses"
     },
     {
         "__typename": "Category",
