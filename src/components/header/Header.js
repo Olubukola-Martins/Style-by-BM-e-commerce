@@ -51,7 +51,7 @@ export default class Navigation extends React.Component {
             }}
             className="header-one"
           >
-            <h1>Shopping Time</h1>
+            <h1>Style by BM</h1>
           </NavLink>
           <CategoryMenu
             allCategories={allCategories}
