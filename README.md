@@ -1,6 +1,6 @@
 
 
-# [Shopping Time](netlify link)
+# [Shopping Time]([netlify link](https://stylebybm.netlify.app/))
 Welcome to Style by BM, the ultimate fashion haven! Immerse yourself in a stunning collection of over 150 dazzling women's clothing pieces, available in an exquisite range of sizes and an enchanting palette of colors. Unleash your style prowess as you handpick from an irresistible array of fashion attributes. Keep your fashion dreams in check with our chic and intuitive cart, allowing you to effortlessly tweak, add, or remove items. But wait, there's more! Personalize your shopping experience by selecting your preferred currency. Get ready to embark on a sensational fashion journey with Style by BM!
 
 ## Functionality
